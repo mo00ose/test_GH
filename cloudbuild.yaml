@@ -1,4 +1,11 @@
 steps:
 - name: 'ubuntu'
   args: ['exit 1']
+  moose m
+  mose
+  mose
+  mosemo
+  mosemose
+  mosemose
+  mosemose
   
